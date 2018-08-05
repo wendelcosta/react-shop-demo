@@ -1,4 +1,8 @@
-// Main app component
+/*
+  @file: src/containers/App/index.js
+  @brief: Main app container component
+  @author: Shane Korin (sk@distriqt.com)
+*/
 
 import React, { Component } from 'react';
 import ProductsPage from '../ProductsPage';

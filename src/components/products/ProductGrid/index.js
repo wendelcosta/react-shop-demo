@@ -1,3 +1,8 @@
+/*
+  @file: src/components/products/ProductGrid/index.js
+  @brief: Products grid component
+  @author: Shane Korin (sk@distriqt.com)
+*/
 
 import React, { Component } from 'react';
 import ImtPropTypes from 'react-immutable-proptypes';

@@ -1,3 +1,8 @@
+/*
+  @file: src/components/products/ProductItem/index.js
+  @brief: A single product item card component
+  @author: Shane Korin (sk@distriqt.com)
+*/
 
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';

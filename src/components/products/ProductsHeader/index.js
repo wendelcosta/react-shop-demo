@@ -1,3 +1,8 @@
+/*
+  @file: src/components/products/ProductsHeader/index.js
+  @brief: Product page header bar component
+  @author: Shane Korin (sk@distriqt.com)
+*/
 
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';

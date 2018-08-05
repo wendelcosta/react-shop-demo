@@ -1,4 +1,8 @@
-// Products page
+/*
+  @file: src/containers/ProductsPage/index.js
+  @brief: Products page container
+  @author: Shane Korin (sk@distriqt.com)
+*/
 
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
